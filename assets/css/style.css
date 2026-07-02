@@ -136,6 +136,10 @@ footer {
     display: grid;
 }
 
+p, li{
+    justify-items:center;
+}
+
 
 @media(max-width: 600px){
 
