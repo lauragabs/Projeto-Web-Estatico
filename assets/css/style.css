@@ -137,7 +137,7 @@ footer {
 }
 
 p, li{
-    justify-items:center;
+        text-align: justify;
 }
 
 
